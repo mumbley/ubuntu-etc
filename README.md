@@ -1,6 +1,7 @@
 ## ubuntu-etc - A diagnostics ETC with the following tools
 * `vim` - vim editor
 * `curl` - HTTP/s FTP/s etc
+* `curl` - non-interactive download of files over HTTP/s and FTP/s
 * `htop` - Process monitor
 * `netcat` - Utility for reading from and writing to network connections using TCP or UDP
 * `lsof` - Report a list of all open files and the processes that opened them
