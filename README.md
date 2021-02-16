@@ -24,3 +24,4 @@
 ### The following 3rd party tools are also installed
 ------
 * `jamal` - A tool for converting JSON to YAML and back again
+* `mongosh` - Mongo database client v0.7.7
