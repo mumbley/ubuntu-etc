@@ -31,7 +31,7 @@ RUN wget https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip -O /opt/awscli
     && tar xzvf helm.tar.gz \
     && mv linux-amd64/helm /usr/local/bin/helm \
     && wget -O /tmp/jamal.gz https://github.com/quantumew/jamal/releases/download/v1.0.1/jamal-Linux-arm64.tar.gz \
-    && tar -xvzf /tmp/jamal.gz -C /usr/bin jamal \
+    && tar -xvzf /tmp/jamal.gz -C /usr/local/bin jamal \
     && chmod a+x /usr/local/bin/kubectl /usr/local/bin/helm /usr/local/bin/jamal \
     && curl -o /tmp/mongo.tgz https://downloads.mongodb.com/compass/mongosh-0.7.7-linux.tgz \
     && tar -xvzf /tmp/mongo.tgz -C /usr/local bin/mongosh
