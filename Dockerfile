@@ -35,5 +35,5 @@ RUN wget https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip -O /opt/awscli
     &&  tar -xvzf /tmp/mongo.tgz -C /tmp \
     &&  mv /tmp/mongodb-database-tools-ubuntu2004-x86_64-100.5.2/bin/* /usr/local/bin \
     &&  rm -rf /tmp/mongodb-database-tools-ubuntu2004-x86_64-100.5.2 \
-    &&  rm /tmp/mongo.tgz \
+    &&  rm /tmp/mongo.tgz
 RUN rm -rf /var/lib/apt/lists/*
