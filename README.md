@@ -24,10 +24,10 @@
 ------
 * `jamal` - A tool for converting JSON to YAML and back again
 * The MongoDB toolset:
-** mongodump  
-** mongoexport  
-** mongofiles  
-** mongoimport  
-** mongorestore  
-** mongostat  
-** mongotop
+  - mongodump  
+  - mongoexport  
+  - mongofiles  
+  - mongoimport  
+  - mongorestore  
+  - mongostat  
+  - mongotop
