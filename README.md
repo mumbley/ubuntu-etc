@@ -23,11 +23,3 @@
 ### The following 3rd party tools are also installed
 ------
 * `jamal` - A tool for converting JSON to YAML and back again
-* The MongoDB toolset:
-  - mongodump  
-  - mongoexport  
-  - mongofiles  
-  - mongoimport  
-  - mongorestore  
-  - mongostat  
-  - mongotop
