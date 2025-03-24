@@ -1,4 +1,4 @@
-## ubuntu-etc - A diagnostics ETC with the following tools
+## ubuntu-etc - A diagnostics container with the following tools
 * `vim` - vim editor
 * `curl` - HTTP/s FTP/s etc
 * `curl` - non-interactive download of files over HTTP/s and FTP/s
